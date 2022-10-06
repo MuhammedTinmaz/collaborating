@@ -18,6 +18,7 @@ Kurz vor dem Servieren das Öl noch einmal erhitzen. Die Pommes frites wiederum 
 ### Definiton Hund
 ```
 (in vielen Rassen gezüchtetes) kleines bis mittelgroßes Säugetier, das besonders wegen seiner Wachsamkeit und Anhänglichkeit als Haustier gehalten wird, einen gut ausgebildeten Gehör- und Geruchssinn besitzt.
+```
 
 Name: Muhammed Tinmaz
 Age: 26
